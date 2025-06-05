@@ -1,0 +1,44 @@
+clc
+clearvars
+
+%For loops
+
+%for variable=startPoint:endPoint
+    %statement
+%end
+
+disp("For loop")
+for a=1:10
+    disp(a);
+end
+
+%for variableName=startPoint:Increasing/Descreasing:endPoint
+%    statement
+%end
+
+disp("For loop with increments")
+for a=1:2:10
+    disp(a);
+end
+
+
+%Display methods
+x = 10;
+fprintf("The number is: %d",x);
+y = sprintf("The number is: %d", x);
+disp(y)
+
+%User inputs
+number = input("Enter number: ");
+disp("The number you entered is: " + number)
+
+word = input ("Enter string: ",'s');
+disp("The string you entered is: " + word)
+
+%While loop
+disp("While Loop")
+e = 1;
+while e < 10
+    disp(e)
+    e = e + 1;
+end
