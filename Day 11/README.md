@@ -95,7 +95,3 @@ Each script will generate a visual graph window and (if applicable) console outp
 - You can modify node colors, edge styles, or layouts to experiment further with graph customization.
 
 ---
-
-## 📷 Screenshots (Optional)
-
-Add screenshots of the generated graphs here for visual reference.
