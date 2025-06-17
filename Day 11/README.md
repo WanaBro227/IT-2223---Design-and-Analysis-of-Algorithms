@@ -13,6 +13,7 @@ This repository contains a collection of MATLAB scripts that demonstrate how to 
   - Red nodes
   - Edge labels showing weights
 - **Visualization Tool:** `plot()`
+![Graph1](https://github.com/user-attachments/assets/03339d5f-0c1b-479e-90b8-ed2d82c32bfc)
 
 ---
 
@@ -24,6 +25,7 @@ This repository contains a collection of MATLAB scripts that demonstrate how to 
 - **Customization:**
   - Edge weights are displayed.
   - Optional node coloring (commented out).
+![Graph2](https://github.com/user-attachments/assets/2c0c4b0f-42b0-41b7-93a2-d647ee1db10a)
 
 ---
 
@@ -38,6 +40,7 @@ This repository contains a collection of MATLAB scripts that demonstrate how to 
     - Node 4: Yellow
     - Node 5: Magenta
 - **Customization:** Colored nodes, thicker edges (`LineWidth = 1.5`)
+![Graph3](https://github.com/user-attachments/assets/96464e54-2f67-4ae6-80e5-b1b412902158)
 
 ---
 
@@ -49,6 +52,7 @@ This repository contains a collection of MATLAB scripts that demonstrate how to 
     - Node 1 & 3: Red
     - Edge (1–3): Magenta
 - **Visualization Tool:** `plot()` with `'force'` layout
+![Graph4](https://github.com/user-attachments/assets/99cb8c26-da8a-4712-b803-37bc92858cc6)
 
 ---
 
@@ -65,6 +69,7 @@ This repository contains a collection of MATLAB scripts that demonstrate how to 
   Node 4 is connected to:  2 3 5
   Node 5 is connected to:  4
   ```
+![Graph5](https://github.com/user-attachments/assets/fb25123e-0c5f-4386-b9b4-539f0844c335)
 
 ---
 
